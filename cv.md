@@ -10,10 +10,9 @@
 
 **GitHub**: [@yauheniumetski](https://github.com/yauheniumetski)
 
----
-
+-----
 ### **Applying for a position of a QA Engineer.**
-
+----
 **Skills**
 
 - API Testing
@@ -46,7 +45,7 @@
 - **Russian Proficiency**: Native
 - **English Proficiency**: B2
 - **Polish Proficiency**: B1
-
+------
 ## **Work experience**
 
 ![Amaryllis Payment Solutions](img\amaryllis-logo.png)
